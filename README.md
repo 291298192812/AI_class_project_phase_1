@@ -1,3 +1,5 @@
+<div dir="rtl" style="text-align: right;">
+
 # AI_class_project_phase_1
 PEAS part and vaccum improvement
 # PEAS یک هوش مصنوعی توصیه‌گر کتاب
@@ -41,3 +43,8 @@ PEAS part and vaccum improvement
 - **پرس‌وجوهای جستجو** — آنچه کاربران در نوار جستجو تایپ می‌کنند
 - **ورودی فراداده کتاب** — به‌روزرسانی کاتالوگ، کتاب‌های جدید
 - **داده‌های زمینه‌ای** — نوع دستگاه، موقعیت مکانی، زمان روز
+
+
+
+
+</div>
