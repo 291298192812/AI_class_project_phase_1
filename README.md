@@ -141,6 +141,11 @@ PEAS part and vaccum improvement
 
 
 
+## سیستم تست شده
+
+OS : Arch Linux
+python : 3v
+
 # نحوه‌ی اجرای پروژه
 
 ## پیش‌نیاز
